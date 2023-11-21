@@ -2,7 +2,8 @@
 NLP Labs completed for the course TALN at UniGe
 Each individual lab is referred to as TP (Travaux Pratique) and I have made folders corresponding to each one
 
-TP1
+#TP1
+
 tp1.py is a python script that does all the actions specified in the assignment. 
 
 rawText.txt is the raw text (also available at https://www.gutenberg.org/cache/epub/71950/pg71950.txt)
