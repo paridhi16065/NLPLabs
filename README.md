@@ -4,8 +4,6 @@ Each individual lab is referred to as TP (Travaux Pratique) and I have made fold
 
 #TP1
 
-tp1.py is a python script that does all the actions specified in the assignment. 
-
 rawText.txt is the raw text (also available at https://www.gutenberg.org/cache/epub/71950/pg71950.txt)
 T.txt is the target word file
 B.txt is the basis word file
@@ -22,6 +20,7 @@ This code will print out the 2 plot of words and the pairings of word as (target
 Running instructions:
 load_tp2.py is the script for running a pretrained model and getting the sentence embeddings. 
 train_tp2.py is the script for running a word2vec model trained by me to get sentence embeddings
+(you can use your own training corpus instead of the book urls used by me)
 
 Run the code as usual with python (the python command on cmd) but substitute the path for T_sent file in variable sentenceFile for load_tp2.py and in variable inputSentenceFile for train_tp2.py as the path may differ on a different system
 
